@@ -1,4 +1,4 @@
-# Job Salary Prediction MVP
+# Job Salary Prediction
 
 ## Project title
 
@@ -295,17 +295,3 @@ job-salary-prediction-mvp/
 - Salary prediction may reflect synthetic or historical biases in data.
 - The MVP is designed for academic demonstration, not real HR use.
 - Genetic Algorithm feature selection is useful for demonstrating bio-inspired optimization, but it can be computationally expensive.
-
-## Future improvements
-
-Possible extensions:
-
-- add cross-validation inside the GA fitness function;
-- compare more evolutionary strategies;
-- tune model hyperparameters with GA;
-- add SHAP explainability;
-- use a larger and more realistic real-world salary dataset;
-- add fairness and bias checks;
-- add confidence intervals for predictions;
-- deploy the app with Docker;
-- add automated tests and CI.
